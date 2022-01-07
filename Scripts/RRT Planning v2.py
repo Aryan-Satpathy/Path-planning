@@ -18,8 +18,12 @@ def resize(img, factor = 10) :
 
     return frame
 
+import os
+script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
+rel_path = "../Images/rrtimg.png"
+path = os.path.join(script_dir, rel_path)
 # path = r'C:\Users\ARYAN SATPATHY\Downloads\Task_1_Low.png'
-path = r'C:\Users\ARYAN SATPATHY\Downloads\pixil-frame-0 (1).png'
+# path = r'..\Images\rrtimg.png'
 img = cv2.imread(path)
 
 outimg = img.copy()
