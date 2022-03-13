@@ -24,9 +24,9 @@ I have also added visuals, so as to provide better understanding to the inner wo
   - A star
     
     <p float="left">
-    <img src="https://user-images.githubusercontent.com/86613790/148538728-acae1b08-d38e-427d-938b-024732dca4ce.png" width=33% height=33%>  
-    <img src="https://user-images.githubusercontent.com/86613790/148539092-ed48d922-e607-4c29-992a-dfb456643b19.png" width=33% height=33%>
-    <img src="https://user-images.githubusercontent.com/86613790/148539408-f4db3f9e-847e-43d8-b2b1-7906d4365ee7.png" width=33% height=33%>
+    <img src="https://user-images.githubusercontent.com/86613790/148538728-acae1b08-d38e-427d-938b-024732dca4ce.png" width=32% height=32%>  
+    <img src="https://user-images.githubusercontent.com/86613790/148539092-ed48d922-e607-4c29-992a-dfb456643b19.png" width=32% height=32%>
+    <img src="https://user-images.githubusercontent.com/86613790/148539408-f4db3f9e-847e-43d8-b2b1-7906d4365ee7.png" width=32% height=32%>
     </p>
 
     Most widely used path planning algorithm. Optimal solution is obtained in reasonable time
